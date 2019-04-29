@@ -3,7 +3,7 @@
 <head>
 	<title>Brayan was here</title>
 </head>
-<center><h1>EL JUEGO DEL CINE</h1></center>
+<center><h1>EL JUEGO DEL CINE Mamoland</h1></center>
 <body>
 <form method="post"> <font face="verdana"><center>
 	Adivine el nombre de la pelicula: <input type="password" name="nombre[]" value="pelicula"><br><br>
