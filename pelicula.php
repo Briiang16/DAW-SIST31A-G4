@@ -1,7 +1,7 @@
 <<!DOCTYPE html>
 <html>
 <head>
-	<title>hola</title>
+	<title>Brayan was here</title>
 </head>
 <center><h1>EL JUEGO DEL CINE</h1></center>
 <body>
